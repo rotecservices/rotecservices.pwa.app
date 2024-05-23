@@ -1,61 +1,61 @@
 {
-  "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
-  "dir": "auto",
-  "lang": "en-US",
-  "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
-  "scope": "/",
-  "display": "standalone",
-  "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
-  "icons": [
+  'version': '1.0',
+  'name': 'ROTEC Services',
+  'short_name': 'ROTEC Services',
+  'description': 'Eletrônica & Informática',
+  'lang': 'pt-Br',
+  'theme_color': '#1cba9b',
+  'background_color': '#273443',
+  'display': 'standalone',
+  'dir': 'auto',
+  'orientation': 'any',
+  'prefer_related_applications': true,
+  'start_url': '/search/label/Servicos',
+  'scope': '/',
+  'icons': [
     {
-      "src": "icons/favicon.ico",
+      "src": "https://drive.google.com/uc?id=1UPo9CvinAUUg5icDtnEYBpgGejfRf-SJ",
       "sizes": "16x16 24x24 32x32 64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "icons/android-icon-36x36.png",
+      "src": "https://drive.google.com/uc?id=1Gscuxf1jqYE2NdnVmFgr6eVTIQfJZpZB",
       "sizes": "36x36",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-48x48.png",
+      "src": "https://drive.google.com/uc?id=11onysDWCJyrd7dH1a7N8DHcIGom20VPq",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-72x72.png",
+      "src": "https://drive.google.com/uc?id=1n_tlhNgKgisq5uETiDIOfYNse0xhbS1n",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-96x96.png",
+      "src": "https://drive.google.com/uc?id=1pTIepqjGINVPfBGZdIK2chVq_-5vrslz",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-144x144.png",
+      "src": "https://drive.google.com/uc?id=1PHIg6sQAKC6B7U8JP439FyPA_lKCJEpP",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-192x192.png",
+      "src": "https://drive.google.com/uc?id=1aMuTFp9M4vnftHK-BW5FWX1Fpqf0P4Sw",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/android-icon-512x512.png",
+      "src": "https://drive.google.com/uc?id=1S3OEzn_VzpVI5R14atEbFjK29nyNqDfA",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -63,37 +63,37 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/screen-1.png",
+      "src": "https://drive.google.com/uc?id=1A18Ai7QqtRLzokxKfevQuEDaY4dIKBAe",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "screenshots/screen-2.png",
+      "src": "https://drive.google.com/uc?id=14fc152EgaH93JhVKBsx-KLG2sTibRg6_",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "screenshots/screen-3.png",
+      "src": "https://drive.google.com/uc?id=1UX8lO3r5vDqtkFko_Ndc_RDX80PBr9DD",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "screenshots/screen-4.png",
+      "src": "https://drive.google.com/uc?id=1MWk-FMkLd5hibek7CxRde0VvLbyUxgPo",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "screenshots/screen-5.png",
+      "src": "https://drive.google.com/uc?id=1jhjTYXat3Blu8nRReznvF9DQRSRH8YYH",
       "type": "image/png",
       "sizes": "540x720"
     }
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "ROTEC Services",
+      "short_name": "ROTEC Services",
+      "description": "Eletrônica & Informática",
+      "url": "/search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,13 +102,13 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "ROTEC Services",
+      "short_name": "ROTEC Services",
+      "description": "Eletrônica & Informática",
+      "url": "/search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
-          "src": "icons/android-icon-192x192.png",
+          "src": "https://drive.google.com/uc?id=1aMuTFp9M4vnftHK-BW5FWX1Fpqf0P4Sw",
           "sizes": "192x192"
         }
       ]
