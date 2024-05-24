@@ -28,9 +28,9 @@ const APP_CONFIG = {
     name: 'fineshop-pwa-app'
   },
   github: {
-    username: '<username>',
-    repository: '<repository>',
-    branch: '<branch>',
+    username: 'rotecservices',
+    repository: 'rotecservices.pwa',
+    branch: 'main',
     /**
      * If the repository is private, provide token as string
      * otherwise keep it null
