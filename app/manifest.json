@@ -6,8 +6,8 @@
   "dir": "auto",
   "lang": "pt-Br",
   "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
-  "scope": "/",
+  "start_url": "https://www.rotec.services/?utm_source=homescreen",
+  "scope": "https://www.rotec.services/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#273443",
@@ -93,10 +93,10 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "/search/label/Servicos?utm_source=homescreen",
+      "url": "https://www.rotec.services/search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
-          "src": "icons/android-icon-192x192.png",
+          "src": "https://drive.google.com/uc?id=1aMuTFp9M4vnftHK-BW5FWX1Fpqf0P4Sw",
           "sizes": "192x192"
         }
       ]
@@ -105,7 +105,7 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "/search/label/Servicos?utm_source=homescreen",
+      "url": "https://www.rotec.services/search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
           "src": "https://drive.google.com/uc?id=1aMuTFp9M4vnftHK-BW5FWX1Fpqf0P4Sw",
