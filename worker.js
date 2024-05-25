@@ -25,7 +25,7 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'fineshop-pwa-app'
+    name: 'rotecservices-pwa-app'
   },
   github: {
     username: 'rotecservices',
