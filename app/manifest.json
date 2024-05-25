@@ -4,7 +4,7 @@
   "short_name": "ROTEC Services",
   "description": "Eletrônica & Informática",
   "dir": "auto",
-  "lang": "pt-BR, en-US",
+  "lang": "pt-BR",
   "orientation": "any",
   "start_url": "https://www.rotec.services/?utm_source=homescreen",
   "scope": "https://www.rotec.services/",
@@ -14,48 +14,48 @@
   "theme_color": "#1cba9b",
   "icons": [
     {
-      "src": "main/icons/favicon.ico",
+      "src": "icons/favicon.ico",
       "sizes": "16x16 24x24 32x32 64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "main/icons/android-icon-36x36.png",
+      "src": "icons/android-icon-36x36.png",
       "sizes": "36x36",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-48x48.png",
+      "src": "icons/android-icon-48x48.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-72x72.png",
+      "src": "icons/android-icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-96x96.png",
+      "src": "icons/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-144x144.png",
+      "src": "icons/android-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-192x192.png",
+      "src": "icons/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "main/icons/android-icon-512x512.png",
+      "src": "icons/android-icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -63,27 +63,27 @@
   ],
   "screenshots": [
     {
-      "src": "main/screenshots/screen-1.png",
+      "src": "screenshots/screen-1.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "main/screenshots/screen-2.png",
+      "src": "screenshots/screen-2.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "main/screenshots/screen-3.png",
+      "src": "screenshots/screen-3.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "main/screenshots/screen-4.png",
+      "src": "screenshots/screen-4.png",
       "type": "image/png",
       "sizes": "540x720"
     },
     {
-      "src": "main/screenshots/screen-5.png",
+      "src": "screenshots/screen-5.png",
       "type": "image/png",
       "sizes": "540x720"
     }
@@ -96,7 +96,7 @@
       "url": "search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
-          "src": "main/icons/android-icon-192x192.png",
+          "src": "icons/android-icon-192x192.png",
           "sizes": "192x192"
         }
       ]
@@ -108,7 +108,7 @@
       "url": "search/label/Servicos?utm_source=homescreen",
       "icons": [
         {
-          "src": "main/icons/android-icon-192x192.png",
+          "src": "icons/android-icon-192x192.png",
           "sizes": "192x192"
         }
       ]
