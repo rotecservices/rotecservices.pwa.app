@@ -29,7 +29,7 @@ const APP_CONFIG = {
   },
   github: {
     username: 'rotecservices',
-    repository: 'rotecservices.pwa',
+    repository: 'rotecservices.pwa.app',
     branch: 'main',
     /**
      * If the repository is private, provide token as string
