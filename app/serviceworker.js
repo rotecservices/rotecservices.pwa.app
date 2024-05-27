@@ -1,5 +1,5 @@
 /**
- * PWA build by Fineshop Design
+ * PWA build by ROTEC Services User Design
  */
 importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/7.0.0/workbox-sw.js"
@@ -73,5 +73,5 @@ if (typeof workbox !== "undefined") {
     );
   });
 } else {
-  console.log("Oops! Workbox did not load.");
+  Swal.fire({ position:&#39;top-end&#39;, icon:&#39;error&#39;, popup:&#39;swal-wide&#39;, title:&#39;O aplicativo não carregado!&#39;, showConfirmButton:false, toast:true, timer:5000,});
 }

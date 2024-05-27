@@ -1,5 +1,5 @@
 if (typeof Lazy !== "function") {
-  /*! Lazy Function by Fineshop Design | uses HTML5 localStorage */
+  /*! Lazy Function by ROTEC Services Design User | uses HTML5 localStorage */
   (function(e) {
     var t = [];
 
@@ -49,8 +49,8 @@ if (typeof Lazy !== "function") {
         logs.push(["Script: " + registration.active.scriptURL]);
       }
       logs.push(
-        ["Build by: Fineshop Design"],
-        ["Developer site: https://fineshopdesign.com"]
+        ["Build by: ROTEC Services"],
+        ["Developer site: https://www.rotec.services/"]
       );
 
       groupLog(

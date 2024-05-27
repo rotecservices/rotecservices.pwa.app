@@ -6,7 +6,7 @@
   "dir": "auto",
   "lang": "pt-BR",
   "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/loja?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": true,
@@ -93,7 +93,7 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "/search/label/Servicos?utm_source=homescreen",
+      "url": "/loja?utm_source=homescreen",
       "icons": [
         {
           "src": "/app/icons/android-icon-192x192.png",
@@ -105,7 +105,7 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "/search/label/Servicos?utm_source=homescreen",
+      "url": "/loja?utm_source=homescreen",
       "icons": [
         {
           "src": "/app/icons/android-icon-192x192.png",
