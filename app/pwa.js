@@ -147,7 +147,7 @@ if (typeof Lazy !== "function") {
         const script = document.createElement("script");
         Object.assign(script, {
           src: app.oneSignalSDK,
-          async: true
+          defer: true
         });
         const firstScript = document.getElementsByTagName("script")[0];
         if (firstScript && firstScript.parentNode) {
