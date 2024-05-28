@@ -8,7 +8,7 @@ importScripts(
 // Configurations for PWA App
 const config = {
   app: {
-    name: "rotecservices-pwa-app",
+    name: "rotecservices.pwa.app",
     version: "v1",
     precache: "install-time",
     runtime: "run-time",
@@ -73,5 +73,5 @@ if (typeof workbox !== "undefined") {
     );
   });
 } else {
-  Swal.fire({ position:&#39;top-end&#39;, icon:&#39;error&#39;, popup:&#39;swal-wide&#39;, title:&#39;O aplicativo não carregado!&#39;, showConfirmButton:false, toast:true, timer:5000,});
+  Swal.fire({ position:&#39;top-end&#39;, icon:&#39;error&#39;, popup:&#39;swal-wide&#39;, title:&#39;O aplicativo não carregou!&#39;, showConfirmButton:false, toast:true, timer:5000,});
 }
