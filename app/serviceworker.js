@@ -8,7 +8,7 @@ importScripts(
 // Configurations for PWA App
 const config = {
   app: {
-    name: "rotecservices.pwa.app",
+    name: "rotecservices-pwa-app",
     version: "v1",
     precache: "install-time",
     runtime: "run-time",
