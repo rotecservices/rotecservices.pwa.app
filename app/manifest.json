@@ -14,6 +14,12 @@
   "theme_color": "#1cba9b",
   "icons": [
     {
+      'src': '/app/icons/icon-512x512.svg',
+      'sizes': '48x48 72x72 96x96 128x128 256x256 512x512',
+      'type': 'image/svg+xml',
+      'purpose': 'any maskable'
+        },
+    {
       "src": "/app/icons/favicon.ico",
       "sizes": "16x16 24x24 32x32 64x64",
       "type": "image/x-icon"
