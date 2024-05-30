@@ -46,7 +46,7 @@ const APP_CONFIG = {
      * This field is for Development purpose only to bypass cache
      * Keep it false in order to serve cached responses
      */
-    bypassCache: false
+    bypassCache: true
   }
 };
 
