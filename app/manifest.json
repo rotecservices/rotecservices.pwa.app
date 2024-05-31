@@ -1,18 +1,18 @@
-{
-  "version": "1.0",
-  "name": "ROTEC Services",
-  "short_name": "ROTEC Services",
-  "description": "Eletrônica & Informática",
-  "dir": "auto",
-  "lang": "pt-BR",
-  "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
-  "scope": "/",
-  "display": "standalone",
-  "prefer_related_applications": true,
-  "background_color": "#273443",
-  "theme_color": "#1cba9b",
-  "related_applications": [
+    {
+      "version": "1.0",
+      "name": "ROTEC Services",
+      "short_name": "ROTEC Services",
+      "description": "Eletrônica & Informática",
+      "dir": "auto",
+      "lang": "pt-BR",
+      "orientation": "any",
+      "start_url": "/?utm_source=homescreen",
+      "scope": "/",
+      "display": "standalone",
+      "prefer_related_applications": true,
+      "background_color": "#273443",
+      "theme_color": "#1cba9b",
+      "related_applications": [
     {
       "platform": "play",
       "url": "https://play.google.com/store/apps/details?id=rotecservices",
