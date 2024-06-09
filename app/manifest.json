@@ -6,7 +6,7 @@
       "dir": "auto",
       "lang": "pt-BR",
       "orientation": "any",
-      "start_url": "https://biolivre.com.br/rotecservices/?utm_source=homescreen",
+      "start_url": "/?utm_source=homescreen",
       "scope": "/",
       "display": "portrait",
       "prefer_related_applications": true,
@@ -110,7 +110,7 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "https://biolivre.com.br/rotecservices/?utm_source=homescreen",
+      "url": "/?utm_source=homescreen",
       "icons": [
     {
       "src": "/app/icons/android-icon-192x192.png",
@@ -122,7 +122,7 @@
       "name": "ROTEC Services",
       "short_name": "ROTEC Services",
       "description": "Eletrônica & Informática",
-      "url": "https://biolivre.com.br/rotecservices/?utm_source=homescreen",
+      "url": "/?utm_source=homescreen",
       "icons": [
     {
       "src": "/app/icons/android-icon-192x192.png",
